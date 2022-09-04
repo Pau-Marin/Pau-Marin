@@ -2,7 +2,8 @@
 
 ## Jr Unity developer & Angel Swing Studio Co-founder
 
-I've discovered programming back when I was 17 years old. I started learning HTML, CSS & JavaScript, but moved to Java because I found some cool tutorials from TheCherno about making games. Sometimes I couldn't spend the time I would have liked, making me fall on "tutorial hell" for a long time. I've seen some C++ (for Unreal Engine), Swift + SwiftUI (iOS apps) but ended making games in C# with Unity, all of that self taught. After a couple years developing 2 projects at Angel Swing Studio, the time came to search investors, but we found out that all of them where only interested in projects that had Crypto & NFTs in them, that's when I started learning Solidity. I really like how Web3 works, and because we would need that backend for our projects, why not just make DAPPs for others while we work on our own?
+I discovered programming back when I was 17 years old. I started learning HTML, CSS & JavaScript, but moved to Java because I found some cool tutorials from TheCherno about making games. Sometimes I couldn't spend the time I would have liked, making me fall on "tutorial hell" for a long time. I've seen some C++ (for Unreal Engine), Swift + SwiftUI (iOS apps) but ended making games in C# with Unity, all of that self taught.
+After a couple years developing 2 projects at Angel Swing Studio, the time came to search investors, but we found out that all of them where only interested in projects that had Crypto & NFTs in them, that's when I started learning Solidity. I really like how Web3 works, and because we would need that backend for our projects, why not just make DAPPs for others while we work on our own?
 
 - 🌍  I'm based in Encamp, Andorra
 - 🖥️  See my portfolio at [my self hosted site](http://ritsu95-inas.synology.me)
@@ -35,7 +36,5 @@ I've discovered programming back when I was 17 years old. I started learning HTM
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/Pau-Marin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pau-Marin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/Pau-Marin"><img src="https://github-readme-stats.vercel.app/api?username=Pau-Marin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pau-Marin's GitHub stats" /></a>
 
 <a href="http://www.github.com/Pau-Marin"><img src="https://activity-graph.herokuapp.com/graph?username=Pau-Marin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

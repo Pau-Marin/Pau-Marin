@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pau Marin
 
-## Jr Unity developer & Angel Swing Studio Co-founder
+## Full-Stack web developer & Angel Swing Studio Co-founder
 
 I discovered programming back when I was 17 years old. I started learning HTML, CSS & JavaScript, but moved to Java because I found some cool tutorials from TheCherno about making games. Sometimes I couldn't spend the time I would have liked, making me fall on "tutorial hell" for a long time. I've seen some C++ (for Unreal Engine), Swift + SwiftUI (iOS apps) but ended making games in C# with Unity, all of that self taught.  
 After a couple years developing 2 projects at Angel Swing Studio, the time came to search investors, but we found out that all of them where only interested in projects that had Crypto & NFTs in them, that's when I started learning Solidity. I really like how Web3 works, and because we would need that backend for our projects, why not just make DAPPs for others while we work on our own?

@@ -6,7 +6,7 @@ I discovered programming back when I was 17 years old. I started learning HTML, 
 After a couple years developing 2 projects at Angel Swing Studio, the time came to search investors, but we found out that all of them where only interested in projects that had Crypto & NFTs in them, that's when I started learning Solidity. I really like how Web3 works, and because we would need that backend for our projects, why not just make DAPPs for others while we work on our own?
 
 - 🌍  I'm based in Encamp, Andorra
-- 🖥️  See my portfolio at [my self hosted site](http://ritsu95-inas.synology.me)
+- 🖥️  See my portfolio at [my self hosted site](http://ritsu95-inas.synology.me) (WIP)
 - ✉️  You can contact me at [pau.marin.jubete@gmail.com](mailto:pau.marin.jubete@gmail.com)
 - 🧠  I'm learning Web3 Full Stack development
 - 🤝  I'm open to collaborating on projects I can learn from

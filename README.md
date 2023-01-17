@@ -1,32 +1,152 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pau Marin
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-## Full-Stack web developer & Angel Swing Studio Co-founder
+### <div align="center">I'm Pau, a full-time full-stack freelance developer 👨‍💻</div>
 
-I discovered programming back when I was 17 years old. I started learning HTML, CSS & JavaScript, but moved to Java because I found some cool tutorials from TheCherno about making games. Sometimes I couldn't spend the time I would have liked, making me fall on "tutorial hell" for a long time. I've seen some C++ (for Unreal Engine), Swift + SwiftUI (iOS apps) but ended making games in C# with Unity, all of that self taught.  
-After a couple years developing 2 projects at Angel Swing Studio, the time came to search investors, but we found out that all of them where only interested in projects that had Crypto & NFTs in them, that's when I started learning Solidity. I really like how Web3 works, and because we would need that backend for our projects, why not just make DAPPs for others while we work on our own?
+- 🔭 I’m currently working on [my portfolio site](https://ritsu95-inas.synology.me/) (WIP, migrating to NextJS)
 
-- 🌍  I'm based in Encamp, Andorra
-- 🖥️  See my portfolio at [my self hosted site](http://ritsu95-inas.synology.me) (WIP)
-- ✉️  You can contact me at [pau.marin.jubete@gmail.com](mailto:pau.marin.jubete@gmail.com)
-- 🧠  I'm learning Web3 Full Stack development
-- 🤝  I'm open to collaborating on projects I can learn from
+- 🌱 I’m currently learning NextJS
 
-### Skills
+- ❓ Ask me about anything related to videogames :)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+- ⚡ Fun fact: I'm from a small country called Andorra
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://discord.com/users/Ritsu#8450" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Pau-Marin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Ritsu95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Pau-Marin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ritsu95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## My Skill Set
+
+<table>
+    <tr>
+        <td valign="top" width="33%">
+
+### Frontend
+
+<div align="center">  
+    <a href="https://reactjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+    </a>  
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+    </a>  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    </a>  
+    <a href="https://www.javascript.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    </a>  
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    </a>  
+    <a href="https://redux.js.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+    </a>  
+    <a href="https://wordpress.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+    </a>  
+    <a href="https://mui.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+    </a>  
+    <a href="https://styled-components.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" />
+    </a>  
+    <a href="https://nextjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+    </a>  
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Backend
+
+<div align="center">  
+    <a href="https://www.javascript.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    </a>  
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    </a>  
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+    </a>  
+    <a href="https://nodejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+    </a>  
+    <a href="https://expressjs.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+    </a>  
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+    </a>  
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Other
+
+<div align="center">  
+    <a href="https://www.linux.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+    </a>  
+    <a href="https://github.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    </a>  
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+    </a>  
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+    </a>  
+    <a href="https://www.java.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+    </a>  
+    <a href="https://unity.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
+    </a>  
+    <a href="https://www.raspberrypi.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
+    </a>  
+    <a href="https://www.docker.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+    </a>  
+    <a href="https://www.apachefriends.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
+    </a>  
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Connect with me
+
+<div align="center">
+    <a href="https://github.com/pau-marin" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/pau-marin" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
+</div>
+
+<br/>
+
+## Github Stats
+
+<div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pau-marin&show_icons=true&locale=en&layout=compact" align="top" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pau-marin&theme=dark" align="right" width="45%" />
+</div>
+
+<br/>
+
+---
+
+<div align="center" width="100%">Base generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>.
+</div>
+</div>

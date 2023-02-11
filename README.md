@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Pau, a full-time full-stack freelance developer 👨‍💻</div>
+### <div align="center">I'm Pau, a Backend Developer 👨‍💻</div>
 
 - 🔭 I’m currently working on [my portfolio site](https://ritsu95-inas.synology.me/) (WIP, migrating to NextJS)
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Python (FastAPI, Pydantinc & SQLAlchemy), C# (.NET) & Java (Spring) backend development
 
 - ❓ Ask me about anything related to videogames :)
 

@@ -29,9 +29,6 @@
     <a href="https://redux.js.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
     </a>
-    <a href="https://wordpress.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-    </a>
     <a href="https://nextjs.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
     </a>
@@ -75,6 +72,9 @@
 ### Other
 
 <div align="center">
+    <a href="https://wordpress.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+    </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
     </a>

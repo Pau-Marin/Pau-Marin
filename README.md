@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my portfolio site](https://ritsu95-inas.synology.me/) (WIP, migrating to NextJS)
 
-- 🌱 I’m currently learning Java (Spring Boot) backend development & I want to also learn both Python (FastAPI, Pydantinc & SQLAlchemy) & C# (.NET)
+- 🌱 I’m currently learning Java (Spring Boot) backend development
 
 - ❓ Ask me about anything related to videogames :)
 

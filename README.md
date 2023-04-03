@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Pau, a Backend Developer 👨‍💻</div>
 
-- 🔭 I’m currently working on [my portfolio site](https://ritsu95-inas.synology.me/) (WIP, migrating to NextJS)
+- 🔭 I’m currently working on [my portfolio site](http://paumarin.com/)
 
 - 🌱 I’m currently learning Java (Spring Boot) backend development
 

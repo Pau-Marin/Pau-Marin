@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my portfolio site](http://paumarin.com/)
 
-- 🌱 I’m currently learning Java (Spring Boot) backend development
+- 🌱 I’m learning Java (Spring Boot) backend development
 
 - ❓ Ask me about anything related to videogames :)
 

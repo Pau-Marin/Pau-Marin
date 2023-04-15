@@ -4,9 +4,9 @@
 
 ### <div align="center">I'm Pau, a Backend Developer 👨‍💻</div>
 
-- 🔭 I’m currently working on [my portfolio site](http://paumarin.com/)
+- 🔭 I’m currently working on [my portfolio site](https://paumarin.com/)
 
-- 🌱 I’m learning Java (Spring Boot) backend development
+- 🌱 I’m learning backend development
 
 - ❓ Ask me about anything related to videogames :)
 
